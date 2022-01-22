@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>  
   <body>
     <h1>Freelance Frontend Developer<h1>
